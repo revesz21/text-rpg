@@ -19,20 +19,20 @@
 
 Follow the steps below to download and run the Text RPG game from the source code using an IDE.
 
-Prerequisites
+### Prerequisites
 
 Ensure that you have the following software installed on your system:
 
 - Java Development Kit (JDK): You can download it from [Oracle's website](https://www.oracle.com/java/technologies/downloads/) or use [OpenJDK](https://openjdk.org/install/).
 - An Integrated Development Environment (IDE) like IntelliJ IDEA or Eclipse.
 
-Download the Source Code
+### Download the Source Code
 
 1. Go to the [Text RPG GitHub repository](https://github.com/revesz21/text-rpg).
 2. Click on the 'Code' button and then click 'Download ZIP'.
 3. Extract the ZIP file to your desired location.
 
-Import and Run the Project in the IDE
+### Import and Run the Project in the IDE
 
 1. Open your IDE and select 'Open' or 'Import' (depending on your IDE) from the file menu.
 2. Navigate to the directory where you extracted the Text RPG source code and select it. The IDE should recognize it as a Java project.
